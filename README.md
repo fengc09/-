@@ -1,1 +1,1 @@
-# -
+用github上的开源项目BookShelf和aEpubReader组合起来制作的读书应用。
